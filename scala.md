@@ -1,0 +1,2 @@
+# <center>Scala Notes</center>
+---
